@@ -8,6 +8,8 @@ const nextConfig = {
 			"cdn.zyrosite.com",
 			"encrypted-tbn0.gstatic.com",
 			"assets.zyrosite.com",
+			"ik.imagekit.io",
+			"www.google.com",
 		],
 	},
 };
